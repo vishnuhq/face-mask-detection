@@ -54,7 +54,7 @@ Final validation loss: **0.0613**
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/421pvv/face-mask-detection-using-deep-learning.git
+git clone https://github.com/vishnuhq/face-mask-detection.git
 cd face-mask-detection-using-deep-learning
 ```
 
